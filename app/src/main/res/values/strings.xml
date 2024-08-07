@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ECart</string>
+    <string name="product_list_activity_label">Product List</string>
+    <string name="product_detail_activity_label">Product Detail</string>
+</resources>
